@@ -10,7 +10,7 @@
     "click",
     "angular"
   ],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/chbrown/checkbox-sequence",
   "repository": "git://github.com/chbrown/checkbox-sequence.git",
   "bugs": "https://github.com/chbrown/checkbox-sequence/issues",
