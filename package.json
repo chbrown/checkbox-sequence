@@ -1,0 +1,19 @@
+{
+  "name": "checkbox-sequence",
+  "description": "DOM mechanism for shift-clicking contiguous sequences of checkboxes",
+  "keywords": [
+    "browser",
+    "dom",
+    "checkbox",
+    "sequence",
+    "shift",
+    "click",
+    "angular"
+  ],
+  "version": "0.0.0",
+  "homepage": "https://github.com/chbrown/checkbox-sequence",
+  "repository": "git://github.com/chbrown/checkbox-sequence.git",
+  "bugs": "https://github.com/chbrown/checkbox-sequence/issues",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT"
+}
